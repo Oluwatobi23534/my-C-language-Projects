@@ -1,2 +1,2 @@
 # my-C-language-Projects
-This program is a simple game to test your basic computer knowledge.
+This folder contains ideas for projects written in C programming Lang.
