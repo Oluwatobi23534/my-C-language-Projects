@@ -1,2 +1,2 @@
 # my-C-language-Projects
-This is a simple game to test your basic computer knowledge.
+This program is a simple game to test your basic computer knowledge.
